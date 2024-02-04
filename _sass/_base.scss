@@ -141,6 +141,10 @@ blockquote {
   margin-top: 0.75rem;
   margin-bottom: 1.5rem;
   text-align: center;
+  
+  mjx-container[jax="CHTML"][display="true"] {
+    display: unset;
+  }
 }
 
 // Card
