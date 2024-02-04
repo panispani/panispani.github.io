@@ -4,7 +4,6 @@ title: Molecular graph learning in the Optimal Transport Geometry
 tags: [ML, GNN, OT, thesis]
 tikzjax: true
 comments: true
-toc: true
 ---
 
 # Introduction
