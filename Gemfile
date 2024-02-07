@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'classifier-reborn'
+    gem 'faraday-retry'
+    gem 'github-pages', group: :jekyll_plugins
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-email-protect'
