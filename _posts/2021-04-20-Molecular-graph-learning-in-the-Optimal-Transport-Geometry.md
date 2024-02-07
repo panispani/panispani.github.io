@@ -44,7 +44,7 @@ We do a quick review of prior work that learns a latent space for molecules for 
 
 Represent molecules as strings using some parsing algorithm on top of the molecular graph $$\href{#16}{[16]} \href{#17}{[17]} \href{#18}{[18]} \href{#19}{[19]} \href{#20}{[20]}$$.
 
-ZPros/Cons:
+Pros/Cons:
 
 - (+) Re-use SOTA NLP methods
 - (-) String representations are not designed to capture molecular similarity, chemically similar molecules can have very different string representations
