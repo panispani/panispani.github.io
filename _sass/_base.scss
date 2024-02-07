@@ -142,9 +142,13 @@ blockquote {
   margin-bottom: 1.5rem;
   text-align: center;
   
-  mjx-container[jax="CHTML"][display="true"] {
+  mjx-container {
     display: unset !important;
   }
+
+  // mjx-container[jax="CHTML"][display="true"] {
+  //   display: unset !important;
+  // }
 }
 
 // Card
