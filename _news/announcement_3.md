@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-03 07:59:00-0400
+date: 2024-07-30 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-Attending [IJCAI 2024](https://ijcai24.org/), come say hi! 🙂
+Our paper "Examining the Impact of Curriculum Learning in Learning Robust Policies over Factored State Representations" has been accepted at the [17th European Workshop on Reinforcement Learning (EWRL 2024)](https://ewrl.wordpress.com/ewrl17-2024/) 🎉
