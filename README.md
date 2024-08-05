@@ -1,3 +1,11 @@
+# What you need to know
+
+```
+docker compose pull
+docker compose up
+npx prettier . --write
+```
+
 # al-folio
 
 <div align="center">
@@ -189,6 +197,7 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
 
 ## Table Of Contents
 
+- [What you need to know](#what-you-need-to-know)
 - [al-folio](#al-folio)
   - [User community](#user-community)
   - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
