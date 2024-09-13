@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a first-year PhD student at the University of Bath, fortunate to be supervised by [Prof. Özgür Şimşek](https://scholar.google.com/citations?user=z1BYZG0AAAAJ&hl=en) and working on causal representations in Reinforcement Learning. Until January 2024, I also worked as a software engineer at Google. Previously, I completed an MSc at ETH and a BEng at Imperial College London, both in Computer Science.
+I'm a first-year PhD student at the University of Bath, fortunate to be supervised by [Prof. Özgür Şimşek](https://scholar.google.com/citations?user=z1BYZG0AAAAJ&hl=en) and working on causal and graph-based methods in Reinforcement Learning. Until January 2024, I also worked as a software engineer at Google. Previously, I completed an MSc at ETH and a BEng at Imperial College London, both in Computer Science.
 
 Outside of work, I love spending time in nature and reading philosophy.
 

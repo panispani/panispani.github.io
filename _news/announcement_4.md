@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attending [IJCAI 2024](https://ijcai24.org/), come say hi! 🙂
+Attended [IJCAI 2024](https://ijcai24.org/) 🙂
