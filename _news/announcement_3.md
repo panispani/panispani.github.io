@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "[Curricula for Learning Robust Policies over Factored State Representations in Changing Environments](https://arxiv.org/abs/2409.09169)" has been accepted at the [17th European Workshop on Reinforcement Learning (EWRL 2024)](https://ewrl.wordpress.com/ewrl17-2024/) 🎉
+Our paper \"[Curricula for Learning Robust Policies over Factored State Representations in Changing Environments](https://arxiv.org/abs/2409.09169)\" has been accepted at the [17th European Workshop on Reinforcement Learning (EWRL 2024)](https://ewrl.wordpress.com/ewrl17-2024/) 🎉
