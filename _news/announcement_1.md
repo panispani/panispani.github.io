@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave an introductory talk on Reinforcement Learning at the Lodz University of Technology ([slides](https://github.com/panispani/lodz-presentation-2024/blob/main/lodz-talk-10-jun-2024.pdf))
+I gave an introductory talk on Reinforcement Learning at the Lodz University of Technology ([slides](https://github.com/panispani/lodz-presentation-2024/blob/main/lodz-talk-10-jun-2024.pdf), [video](https://www.youtube.com/watch?v=KQhRAoEYIA8&ab_channel=SekcjaAI))
