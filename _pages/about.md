@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Reinforcement Learning @ University of Bath
+subtitle: Causality & Reinforcement Learning @ University of Bath
 #<a href='#'>University of Bath</a>
 # Address. Contacts. Moto. Etc.
 
